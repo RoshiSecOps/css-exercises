@@ -1,0 +1,22 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.class1, .class2{
+background-color: pink;
+}
+
+.class2{
+    font-size: larger;
+}
+
+#one {
+    color: blue;
+    font-size:xx-large;
+}
+
+#two{
+    background-color: green;
+    font-weight: bold;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+}
